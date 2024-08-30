@@ -1,0 +1,26 @@
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\bin\Debug\ConexionEjemplo.exe.config
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\bin\Debug\ConexionEjemplo.exe
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\bin\Debug\ConexionEjemplo.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\obj\Debug\ConexionEjemplo.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\obj\Debug\ConexionEjemplo.Form1.resources
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\obj\Debug\ConexionEjemplo.Properties.Resources.resources
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\obj\Debug\ConexionEjemplo.csproj.GenerateResource.cache
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\obj\Debug\ConexionEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\obj\Debug\ConexionEjemplo.exe
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\obj\Debug\ConexionEjemplo.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\bin\Debug\DatosLayer.dll
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\bin\Debug\DatosLayer.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\ConexionEjemplo\obj\Debug\Conexion.340F87A6.Up2Date
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\bin\Debug\ConexionEjemplo.exe.config
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\bin\Debug\ConexionEjemplo.exe
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\bin\Debug\ConexionEjemplo.pdb
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\bin\Debug\DatosLayer.dll
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\bin\Debug\DatosLayer.pdb
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\obj\Debug\ConexionEjemplo.csproj.AssemblyReference.cache
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\obj\Debug\ConexionEjemplo.Form1.resources
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\obj\Debug\ConexionEjemplo.Properties.Resources.resources
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\obj\Debug\ConexionEjemplo.csproj.GenerateResource.cache
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\obj\Debug\ConexionEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\obj\Debug\Conexion.340F87A6.Up2Date
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\obj\Debug\ConexionEjemplo.exe
+C:\Users\segur\Downloads\sqlServer_visualEstudio_Conectado_DataProvider-main (1)\sqlServer_visualEstudio_Conectado_DataProvider-main\ConexionEjemplo\obj\Debug\ConexionEjemplo.pdb
